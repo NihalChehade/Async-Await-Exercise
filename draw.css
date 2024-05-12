@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(27, 187, 187);
+}
+
+.cardDiv {
+    position: absolute;
+    margin-top: 10%;
+    width: 20%;
+    height: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+  
+  
+
